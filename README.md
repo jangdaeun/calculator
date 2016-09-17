@@ -1,1 +1,2 @@
 # calculator
+techEducation - GitHub repository
